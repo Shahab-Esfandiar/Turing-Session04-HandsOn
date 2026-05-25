@@ -1,4 +1,4 @@
-* # 🪄 Agentic RAG Panel
+# 🪄 Agentic RAG Panel
   **Multilingual Web-Scraping & Fact-Checking Engine (Jupyter Edition)** 
 
   This project is an advanced, production-grade Retrieval-Augmented Generation (RAG) system built entirely within Jupyter Notebooks. It bridges the gap between raw web data and structured AI reasoning, offering a highly **interactive** UI with dynamic state management.
