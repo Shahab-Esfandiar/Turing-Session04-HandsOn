@@ -1,5 +1,5 @@
 # 🪄 Agentic RAG Panel
-  **Multilingual Web-Scraping & Fact-Checking Engine (Jupyter Edition)** 
+  **Multilingual Web-Scraping & QA Engine (Jupyter Edition)** 
 
   This project is an advanced, production-grade Retrieval-Augmented Generation (RAG) system built entirely within Jupyter Notebooks. It bridges the gap between raw web data and structured AI reasoning, offering a highly **interactive** UI with dynamic state management.
 
@@ -8,7 +8,7 @@
   ## 🏗️ System Architecture & Enhancements
   Built to bypass traditional scraping limitations, the architecture focuses on a "Universal Extraction" philosophy, ensuring high-quality context delivery to the LLM regardless of the source language or website structure.
 
-  ### 1. Core Foundations (The "Under the Hood" Upgrades)
+  ### 1. Core Foundations
   * **Resilient Web Crawler:** A custom `advanced_web_scraper` that injects professional Headers and autonomously decomposes irrelevant DOM elements (navbars, footers, scripts, forms) to extract pure, meaningful text and tables.
   * **Semantic Vector Space:** Leverages the `paraphrase-multilingual-MiniLM-L12-v2` embedding model, allowing the system to map both Persian (RTL) and English (LTR) text uniformly without translation loss.
   * **Dynamic State Machine:** Replaces linear cell execution with an event-driven `ipywidgets` architecture, managing UI states seamlessly without kernel restarts.
