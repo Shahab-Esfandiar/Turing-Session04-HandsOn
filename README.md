@@ -1,7 +1,6 @@
 # 🪄 Agentic RAG Panel
-  **Multilingual Web-Scraping & QA Engine (Jupyter Edition)** 
 
-  This repo is an advanced, production-grade Retrieval-Augmented Generation (RAG) system built entirely within Jupyter Notebooks. It bridges the gap between raw web data and structured AI reasoning, offering a highly **interactive** UI with dynamic state management.
+  This repo is a Retrieval-Augmented Generation (RAG) system built entirely within Jupyter Notebooks. It bridges the gap between raw web data and structured AI reasoning, offering a highly **interactive** UI with dynamic state management.
 
 <img width="1305" height="637" alt="Screenshot 2026-05-27 022116" src="https://github.com/user-attachments/assets/6938480a-e51e-4956-b7ea-bef2f497a943" />
 <img width="1321" height="712" alt="Screenshot 2026-05-27 022222" src="https://github.com/user-attachments/assets/61d740d3-6157-49d6-bd07-b0854aea8416" />
